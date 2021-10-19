@@ -33,25 +33,25 @@ The production cost of movies has appreciated significantly over the last two ye
 
 Movies that had the highest worldwide gross started as a well-established franchises. There are some break-away cases where stand-alone movies tend to perform better. But the general trend is skewed towards sequels. 
 
-![franchises_vs_standalone](top_grossing_world.png)
+![franchises_vs_standalone](./images/top_grossing_world.png)
 
 Audience generally favor movies with high production budget even if the quality might not be on par with being a great movie. 
 
-![budge_vs_rating](budge_vs_rating.png)
+![budge_vs_rating](./images/budge_vs_rating.png)
 
 A few specific genres are overall more sellable than others. Animation and adventure movies display this effect. This could also be a reflection to the high production cost that might have been incurred from making such genres. 
 
-![gross_by_genre](gross_by_genre.png)
+![gross_by_genre](./images/gross_by_genre.png)
 
 Franchises with recognizable roles make movies earn more. This could reflect on audiences' loyalty to the franchise. Another observation is that movies in franchises have nostalgic effect. 
 
-![top_grossing_actors](top_grossing_actors.png)
+![top_grossing_actors](./images/top_grossing_actors.png)
 
-![top_grossing_actresses](top_grossing_actresses.png)
+![top_grossing_actresses](./images/top_grossing_actresses.png)
 
 Choice of directors also has a stark impact on how well a movie does. 
 
-![top_grossing_directors](top_grossing_directors.png)
+![top_grossing_directors](./images/top_grossing_directors.png)
 
 
 ## Conclusions
