@@ -1,6 +1,6 @@
 # Microsoft in The Movie Business
 
-**Author**: [Abeselom Fanta](mailto:afanta@alumni.cmu.edu)
+**Author**: [Abe Fanta](mailto:afanta@alumni.cmu.edu)
 
 ## Overview
 
