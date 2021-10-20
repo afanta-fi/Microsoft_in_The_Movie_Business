@@ -89,6 +89,6 @@ For additional info, contact Abeselom Fanta at [afanta@alumni.cmu.edu](mailto:af
 ├── README.md
 ├── Microsoft_movie_business.pdf
 ├── Microsoft_movie_business.ipynb
-└── web_scrape_and_api.ipynb.ipynb
+└── web_scrape_and_api.ipynb
 ```
 
