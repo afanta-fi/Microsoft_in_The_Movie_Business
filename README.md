@@ -81,7 +81,7 @@ See the full analysis in the [Jupyter Notebook](./Microsoft_movie_business.ipynb
 For additional info, contact Abeselom Fanta at [afanta@alumni.cmu.edu](mailto:afanta@alumni.cmu.edu)
 
 
-## Repository Structure
+## Repository Structure    
 
 ```
 ├── code
