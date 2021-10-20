@@ -1,6 +1,6 @@
 # Microsoft in The Movie Business
 
-**Author**: [Abe Fanta](mailto:afanta@alumni.cmu.edu)
+**Author**: [Abeselom Fanta](mailto:afanta@alumni.cmu.edu)
 
 ## Overview
 
@@ -81,18 +81,14 @@ See the full analysis in the [Jupyter Notebook](./Microsoft_movie_business.ipynb
 For additional info, contact Abeselom Fanta at [afanta@alumni.cmu.edu](mailto:afanta@alumni.cmu.edu)
 
 
-## Repository Structure    
+## Repository Structure
 
 ```
-├── code
-│   ├── the_numbers_scraper.ipynb
-│   ├── imdb_dataset_download.ipynb
-│   ├── consolidate_scraped_data.ipynb
-│   └── visualization.ipynb
-├── data
 ├── images
 ├── zippedData
 ├── README.md
 ├── Microsoft_movie_business.pdf
-└── Microsoft_movie_business.ipynb
+├── Microsoft_movie_business.ipynb
+└── web_scrape_and_api.ipynb.ipynb
 ```
+
