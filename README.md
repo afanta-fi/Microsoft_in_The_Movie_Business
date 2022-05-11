@@ -1,7 +1,5 @@
 # Microsoft in The Movie Business
 
-**Author**: [Abeselom Fanta](mailto:afanta@alumni.cmu.edu)
-
 ## Overview
 
 This project provides insight on the prospects of Microsoft entering the movie making business. In this competitive market, there are a myriad of factors that need to be addressed before fully committing to the project. First, estimating the budget/expenditure for a successful return on investment needs to be investigated. Investigating whether established franchise for making profits or stand-alone movies is the next step. To avoid possible flops, it is important to see if production budget and viewer satisfaction. Success of movies differs based on the genres. Therefore, genres with easy entry and profitability must be examined. Lastly, casting and director recommendations for a successful franchise is made. Microsoft can use preliminary analysis to venture into movie making or streaming service.
