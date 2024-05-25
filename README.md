@@ -76,9 +76,6 @@ Further analyses could yield additional insights to make better recommendation f
 
 See the full analysis in the [Jupyter Notebook](./Microsoft_movie_business.ipynb) or review this [presentation](./Microsoft_movie_business.pdf).
 
-For additional info, contact Abeselom Fanta at [afanta@alumni.cmu.edu](mailto:afanta@alumni.cmu.edu)
-
-
 ## Repository Structure
 
 ```
